@@ -1,0 +1,23 @@
+[DEFAULT]
+lib_name = g
+user = e
+description = g
+keywords = jupyter notebook asciidoc
+author = Jeremy Howard and Sylvain Gugger
+author_email = info@fast.ai
+copyright = fast.ai
+branch = master
+version = 0.0.1
+min_python = 3.6
+audience = Developers
+language = English
+custom_sidebar = False
+license = custom
+status = 2
+nbs_path = .
+doc_path = docs
+git_url = https://github.com/NinjaDev06/grocery-items/
+lib_path = g
+title = g
+host = github
+
